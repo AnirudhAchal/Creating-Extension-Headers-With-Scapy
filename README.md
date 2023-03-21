@@ -1,6 +1,6 @@
 # Generating IPv6 Extension Headers
 
-This guide gives a basic overview of Scapy and how to create simply IPv6 packets with extension headers.
+This guide gives a basic overview of Scapy and how to create simple IPv6 packets with extension headers.
 
 ## Goals
 
